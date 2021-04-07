@@ -1,0 +1,9 @@
+!	LpgnPancasila	Mtrm-Mjpht	TmnIndoKaya	PmkmGiriTunggal	StarHtlSmrg	MTHaryono-KmplMaksum	TPUBergotaKrakal	Pekunden-Pndrn
+LpgnPancasila	0	1.107	0.352	0	0	0	0	1.098
+Mtrm-Mjpht	1.107	0	0	0	0	0.785	0	0
+TmnIndoKaya	0.352	0	0	0.538	0	0	0	0
+PmkmGiriTunggal	0	0	0.538	0	1.628	0	0.898	0
+StarHtlSmrg	0	0	0	1.628	0	0.436	0	0
+MTHaryono-KmplMaksum	0	0.785	0	0	0.436	0	0	0
+TPUBergotaKrakal	0	0	0	0.898	0	0	0	0.477
+Pekunden-Pndrn	1.098	0	0	0	0	0	0.477	0

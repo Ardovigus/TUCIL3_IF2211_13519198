@@ -1,0 +1,9 @@
+!	AsAfr-Banceuy	AsAfr-Cika	AsAfr-AlnTimur	DlmKaum-AlnTimur	DewiSr-DlmKaum	DewiSr-Kepat	AsAfr-Otto	Otto-DlmKaum
+AsAfr-Banceuy	0	0	0.145	0	0	0	0.265	0
+AsAfr-Cika	0	0	0.035	0	0	0	0	0
+AsAfr-AlnTimur	0.145	0.035	0	0.144	0	0	0	0
+DlmKaum-AlnTimur	0	0	0.144	0	0.143	0	0	0
+DewiSr-DlmKaum	0	0	0	0.143	0	0.119	0	0.267
+DewiSr-Kepat	0	0	0	0	0.119	0	0	0
+AsAfr-Otto	0.265	0	0	0	0	0	0	0.143
+Otto-DlmKaum	0	0	0	0	0.267	0	0.143	0

@@ -1,0 +1,9 @@
+!	BB-Gurame	BB-Banteng	BB-BKR	BB-Sadakeling	Banteng-Plsr	Sadakeling-Brgrg	Banteng-Sancang	Sancang-Lodaya
+BB-Gurame	0	0.078	0	0.26	0	0	0	0
+BB-Banteng	0.078	0	0.774	0	0	0	0.159	0
+BB-BKR	0	0.774	0	0	0	0	0	0
+BB-Sadakeling	0.26	0	0	0	0	0.294	0	0
+Banteng-Plsr	0	0	0	0	0	0	0.331	0
+Sadakeling-Brgrg	0	0	0	0.294	0	0	0	0.203
+Banteng-Sancang	0	0.159	0	0	0.331	0	0	0.188
+Sancang-Lodaya	0	0	0	0	0	0.203	0.188	0

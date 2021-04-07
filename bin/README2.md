@@ -1,0 +1,2 @@
+Setup.zip berisi folder Setup yang berisi keseluruhan komponen hasil publish project (mencakup A_Star.exe dan setup.exe)<br>
+Release.zip berisi folder Release yang berisi keseluruhan komponen hasil release (build) project (hanya mencakup A_Star.exe)

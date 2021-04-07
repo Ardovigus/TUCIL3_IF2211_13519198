@@ -1,0 +1,9 @@
+!	RyLembang-GrdHtl	RyLembang-Hutan	RyLembang-Mrby	Panorama-GrdHtl	Mrby-SeskoAU	SeskoAU-KyAmbon	KyAmbon-Mrby	Mrby-SkmjBarat
+RyLembang-GrdHtl	0	0.44	0	0.941	0	0	0	0
+RyLembang-Hutan	0.44	0	0.803	0	0	0	0	0
+RyLembang-Mrby	0	0.803	0	0.346	0.314	0	0	0
+Panorama-GrdHtl	0.941	0	0.346	0	0	0.293	0	0
+Mrby-SeskoAU	0	0	0.314	0	0	0.345	0	1.25
+SeskoAU-KyAmbon	0	0	0	0.293	0.345	0	1.316	0
+KyAmbon-Mrby	0	0	0	0	0	1.316	0	0.359
+Mrby-SkmjBarat	0	0	0	0	1.25	0	0.359	0
